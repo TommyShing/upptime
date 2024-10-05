@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 82,
-    "timeDay": 82,
-    "timeWeek": 82,
-    "timeMonth": 82,
-    "timeYear": 82,
+    "time": 83,
+    "timeDay": 83,
+    "timeWeek": 83,
+    "timeMonth": 83,
+    "timeYear": 83,
     "dailyMinutesDown": {}
   },
   {
@@ -28,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 914,
-    "timeDay": 914,
-    "timeWeek": 914,
-    "timeMonth": 914,
-    "timeYear": 914,
+    "time": 557,
+    "timeDay": 557,
+    "timeWeek": 557,
+    "timeMonth": 557,
+    "timeYear": 557,
     "dailyMinutesDown": {}
   },
   {
@@ -41,18 +41,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/upptime.legotrain.eu.org.ico",
     "slug": "serv00",
     "status": "down",
-    "uptime": "97.70%",
-    "uptimeDay": "97.70%",
-    "uptimeWeek": "97.70%",
-    "uptimeMonth": "97.70%",
-    "uptimeYear": "97.70%",
-    "time": 359,
-    "timeDay": 359,
-    "timeWeek": 359,
-    "timeMonth": 359,
-    "timeYear": 359,
+    "uptime": "63.96%",
+    "uptimeDay": "63.96%",
+    "uptimeWeek": "63.96%",
+    "uptimeMonth": "63.96%",
+    "uptimeYear": "63.96%",
+    "time": 426,
+    "timeDay": 426,
+    "timeWeek": 426,
+    "timeMonth": 426,
+    "timeYear": 426,
     "dailyMinutesDown": {
-      "2024-10-05": 0
+      "2024-10-05": 2
     }
   }
 ]

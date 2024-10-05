@@ -40,17 +40,19 @@
     "url": "https://upptime.legotrain.eu.org",
     "icon": "https://icons.duckduckgo.com/ip3/upptime.legotrain.eu.org.ico",
     "slug": "serv00",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 365,
-    "timeDay": 365,
-    "timeWeek": 365,
-    "timeMonth": 365,
-    "timeYear": 365,
-    "dailyMinutesDown": {}
+    "status": "down",
+    "uptime": "97.70%",
+    "uptimeDay": "97.70%",
+    "uptimeWeek": "97.70%",
+    "uptimeMonth": "97.70%",
+    "uptimeYear": "97.70%",
+    "time": 359,
+    "timeDay": 359,
+    "timeWeek": 359,
+    "timeMonth": 359,
+    "timeYear": 359,
+    "dailyMinutesDown": {
+      "2024-10-05": 0
+    }
   }
 ]

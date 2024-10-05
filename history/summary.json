@@ -41,18 +41,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/tommyshing.serv00.net.ico",
     "slug": "serv00",
     "status": "up",
-    "uptime": "38.92%",
-    "uptimeDay": "38.92%",
-    "uptimeWeek": "38.92%",
-    "uptimeMonth": "38.92%",
-    "uptimeYear": "38.92%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 494,
     "timeDay": 494,
     "timeWeek": 494,
     "timeMonth": 494,
     "timeYear": 494,
-    "dailyMinutesDown": {
-      "2024-10-05": 5
-    }
+    "dailyMinutesDown": {}
   }
 ]
